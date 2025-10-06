@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Pr3algo\Pr3algo\bin\Debug\net8.0\Pr3algo.exe
+C:\Users\user\source\repos\Pr3algo\Pr3algo\bin\Debug\net8.0\Pr3algo.deps.json
+C:\Users\user\source\repos\Pr3algo\Pr3algo\bin\Debug\net8.0\Pr3algo.runtimeconfig.json
+C:\Users\user\source\repos\Pr3algo\Pr3algo\bin\Debug\net8.0\Pr3algo.dll
+C:\Users\user\source\repos\Pr3algo\Pr3algo\bin\Debug\net8.0\Pr3algo.pdb
+C:\Users\user\source\repos\Pr3algo\Pr3algo\obj\Debug\net8.0\Pr3algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Pr3algo\Pr3algo\obj\Debug\net8.0\Pr3algo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Pr3algo\Pr3algo\obj\Debug\net8.0\Pr3algo.AssemblyInfo.cs
+C:\Users\user\source\repos\Pr3algo\Pr3algo\obj\Debug\net8.0\Pr3algo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Pr3algo\Pr3algo\obj\Debug\net8.0\Pr3algo.dll
+C:\Users\user\source\repos\Pr3algo\Pr3algo\obj\Debug\net8.0\refint\Pr3algo.dll
+C:\Users\user\source\repos\Pr3algo\Pr3algo\obj\Debug\net8.0\Pr3algo.pdb
+C:\Users\user\source\repos\Pr3algo\Pr3algo\obj\Debug\net8.0\Pr3algo.genruntimeconfig.cache
+C:\Users\user\source\repos\Pr3algo\Pr3algo\obj\Debug\net8.0\ref\Pr3algo.dll
