@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Pr4algo\Pr4algo\obj\Debug\net8.0\Pr4algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Pr4algo\Pr4algo\obj\Debug\net8.0\Pr4algo.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Pr4algo\Pr4algo\obj\Debug\net8.0\Pr4algo.AssemblyInfo.cs
+C:\Users\user\source\repos\Pr4algo\Pr4algo\obj\Debug\net8.0\Pr4algo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Pr4algo\Pr4algo\obj\Debug\net8.0\Pr4algo.sourcelink.json
+C:\Users\user\source\repos\Pr4algo\Pr4algo\bin\Debug\net8.0\Pr4algo.exe
+C:\Users\user\source\repos\Pr4algo\Pr4algo\bin\Debug\net8.0\Pr4algo.deps.json
+C:\Users\user\source\repos\Pr4algo\Pr4algo\bin\Debug\net8.0\Pr4algo.runtimeconfig.json
+C:\Users\user\source\repos\Pr4algo\Pr4algo\bin\Debug\net8.0\Pr4algo.dll
+C:\Users\user\source\repos\Pr4algo\Pr4algo\bin\Debug\net8.0\Pr4algo.pdb
+C:\Users\user\source\repos\Pr4algo\Pr4algo\obj\Debug\net8.0\Pr4algo.dll
+C:\Users\user\source\repos\Pr4algo\Pr4algo\obj\Debug\net8.0\refint\Pr4algo.dll
+C:\Users\user\source\repos\Pr4algo\Pr4algo\obj\Debug\net8.0\Pr4algo.pdb
+C:\Users\user\source\repos\Pr4algo\Pr4algo\obj\Debug\net8.0\Pr4algo.genruntimeconfig.cache
+C:\Users\user\source\repos\Pr4algo\Pr4algo\obj\Debug\net8.0\ref\Pr4algo.dll
