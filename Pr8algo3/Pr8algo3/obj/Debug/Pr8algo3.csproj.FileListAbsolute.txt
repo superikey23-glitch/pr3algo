@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\Pr8algo3\Pr8algo3\obj\Debug\Pr8algo3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Pr8algo3\Pr8algo3\obj\Debug\Pr8algo3.Form1.resources
+C:\Users\user\source\repos\Pr8algo3\Pr8algo3\obj\Debug\Pr8algo3.Properties.Resources.resources
+C:\Users\user\source\repos\Pr8algo3\Pr8algo3\obj\Debug\Pr8algo3.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Pr8algo3\Pr8algo3\obj\Debug\Pr8algo3.csproj.CoreCompileInputs.cache
